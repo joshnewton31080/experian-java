@@ -1,3 +1,5 @@
+//comment
+
 function show(type)
 {
     count = 0;
